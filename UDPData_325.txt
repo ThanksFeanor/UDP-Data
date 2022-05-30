@@ -1,0 +1,7 @@
+Welterweight Cat,2,Gacha Rares
+"Welterweight Cat (Heavyweight Cat) is a situationally effective anti-Zombie CC unit with the Knockback and Z-Killer abilities. It attacks three times in quick succession every 1.83s, with a 16% chance of Knockback on each hit, standing at 250 range. It also has a cost of 540 and a respawn of 9.2s. The fast attack rate translates to one KB per 4.5s on average. KB vs Zombies is unique as it allows you to counter their burrow ability, by either interrupting them mid-burrow, or knocking them back to the frontline after they emerge to avoid losing ground. In the latter case, however, Heavyweight lacks the bulk to endure most Zombies' attacks long enough to achieve this. Heavyweight is especially noteworthy for countering Big Sal and Miss Haka who burrow repeatedly to try to reach your base."
+"The True Form, Ectoweight Cat gains a rather respectable 16.3k HP, making it better suited to survive ambushes and regain lost ground. This helps keep him relevant into the late game as a useful support unit on many Zombie stages. He also increases in range to 280 though this only lets him work against Lord Gravey where he didn't already."
+Useful to Own By: 
+ItF 1 Zombie Outbreaks
+Useful to True Form By: 
+SoL 34 for first appearance of Zombies

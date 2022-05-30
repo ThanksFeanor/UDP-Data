@@ -1,0 +1,7 @@
+Metal Cat,2,Gacha Super Rares
+"Metal Cat (Metal Macho) is a situationally effective Meatshield with the Metal ability. At level 20 (it should be noted Metal Cat physically cannot exceed this level cap), it has 12 HP, 2 KBs, 10 Speed, 600 cost, and a 17.87s Cooldown. Metal Cat is the only unit in the game to have the Metal ability, but not the Suicide ability. This gives it an incredibly unique role of stalling enemies regardless of their damage, when other units cannot, as it only takes 1 damage from non-Critical attacks. It can easily keep enemies with huge damage but a low attack rate in place, such as some advent and collab bosses. It also costs very little to spam, so it can be used in conjunction with other stallers for even better defense, or allow the player to save up cash for other units while it single handedly stops the enemy advancement. However, Metal Cat has several limitations. Its extremely low HP makes it unusable in any stage where it will take a lot of hits quickly, so peon spam can cut through it just as easily as regular meatshields. Its long cooldown also makes losing it very punishing and often gives Metal Cat very little ""uptime"" on the defense it provides. Lastly, its Metal ability is susceptible to both Critical attacks (from e.g. R Ost, Capy) and the Toxic ability. This leaves it as a unit that won't find that much use throughout the game but can still shine on some very tough stages."
+-
+Useful to Own By: 
+"Parade of the Dead, for Daboo"
+Useful to True Form By: 
+-

@@ -1,0 +1,7 @@
+Jurassic Cat,2,Gacha Rares
+"Jurassic Cat (Jurassic Cat Sitter) is an effective critical hitter. It has a 5% chance of Critical Hit for about 2700 Damage, 11.4k HP with 3 KBs, 150 range, a cooldown of 7.2 seconds, and a cost of 525. Jurassic's fast attack rate and spammability mean that even with only a 5% crit chance you can get it to land crits quite reliably. Its damage per hit is sufficient to one shot just about any early game Metal foe it encounters. However, its low range means it is unable to outrange later, more threatening Metals such as Super Metal Hippoe or Sir Metal Seal. Additionally, when paired with Li'l Macho Cat, Jurassic Cat has an accessible 2-slot Research Combo which is good for both spamming it and many other units."
+"In True Form, Catasaurus improves greatly. It now gets a 7% chance to crit for 3700 damage from 180 range, and a substantial 16.5k HP. The most important thing is that with this extra range it can now reach every common Metal enemy, making it the best all-purpose critical hitter for much of the early-to-mid game. Its Critical Chance Up talent elevates Catasaurus's crit chance to a much nicer 12% for only 25 NP, making it one of the most cost effective and useful talents in the game. A further Cost Down talent reduces its cost to only 375, and can also help you afford to spam many Catasauruses (especially with Research combos) in cash-tight Metal stages."
+Useful to Own By: 
+"SoL 15, for first appearance of Metal One Horn"
+Useful to True Form By: 
+SoL 18 for first appearance of Sir Metal Seal

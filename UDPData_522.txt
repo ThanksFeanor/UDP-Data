@@ -1,0 +1,7 @@
+Nymph Cat,2,Gacha Super Rares
+"Nymph Cat (Medalist Cat) is a great LD attacker. She has 12.8k Damage (6400/6400 split multi-hit), 2600 DPS, 8200 HP, an 18s Cooldown with a standing range of 300 (250 to 550 LD). Nymph's main usage is her high LD DPS, making her able to shred Backline enemies quickly, such as Le'Boin, Teacher Bear and Master A. She can also be stacked on certain stages, such as Deathhawk and Bombergirl, to great effect. Her main flaws come from her poor survivability, with low standing range, poor HP and a high 16 speed which can cause her to move in front of other units and die. Her blindspot can also easily be invaded by fast, short range enemies, and she gets outclassed by Housewife with Savage Blow talent, although both can still be used in conjunction."
+"In True Form, Fiend Cat gets an improved 12.8k HP as well as a 30% chance of Knockback against Aku enemies. The extra HP is nice, but does not hold up to late game content well, and Aku Death Surges spell her doom. Her Knockback ability however helps for controlling Medu-san and groups of unshielded Aku enemies, such as Aku Gory spam. With her Resist talent, Fiend becomes able to survive Death Surges and makes her very durable for her role, covering her main weakness. Additionally, with Angel Target talent, she can extend this durability to Angels while also bringing her CC to snipe-KB bulky backliners like Sleipnir with a stepping stone and create breathing room for your cats."
+Useful to Own By: 
+ItF 1 and anywhere early in SoL
+Useful to True Form By: 
+When you get an Aku Seed

@@ -1,0 +1,7 @@
+Psychocat,2,Gacha Rares
+"Psychocat, or Neo Psychocat in Evolved Form, is a good stackable anti-Alien CC unit, with a 50% chance to Slow Alien enemies for 4s from 365 range, attacking every 3.5s. He excels at stopping Aliens which outrange Surfer, making his most relevant stages ItF 2 and 3 Moons. Psycho is also fine against the likes of lower-ranged Nimoy Bore or Cyberhorn too, though you often need to stack a few to maintain consistent control due to non-guaranteed proc and gaps in uptime. With his 8s Cooldown, you can't quickly build a stack on demand, but instead often need to prepare it in advance of the threat you wish to control. His biggest weakness is lack of Area Attack, meaning large groups of enemies can easily break through his control with sheer numbers."
+"Its True Form, Corrupted Psychocat, has a faster attack rate of 2.37s, making it easier to land and maintain Slow on enemies. After CotC treasures, this also allows him to reach 200% uptime, so that even a small stack of Psychos doesn't need much good luck to keep an enemy under control. His lack of Area Attack is not fixed, however, keeping him firmly behind Seafarer in most situations. His only relevant talent is Target Zombie. Slowing Zombies is already somewhat covered by Housewife, but Psycho is available in 4 Crown restrictions, and works better against the hard-pushing Dread Bore who can infiltrate Housewife's blindspot easily."
+Useful to Own By: 
+ItF 1
+Useful to True Form By: 
+ItF 3 Moon

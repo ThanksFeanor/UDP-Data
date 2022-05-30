@@ -1,0 +1,7 @@
+Rich Cat III,2,Gacha Super Rares
+"Rich Cat III (Rich Cat Sr.) has 2600 HP, 250 range, 3 Speed and a 158s cooldown. It hits twice for 4900 damage and anything it kills will drop double money. With the combination of an uber-class cooldown with no survivability, awful speed, and damage unable to kill anything aside from very weak peons to score double money, this unit is not worth using in battle. However, its Itchy Riches CatCombo grants an efficient one-slot Worker Cat Level Up (Sm) effect letting you start the battle at Worker Level 2. This is highly useful in Dojo as well as in a range of cash-tight stages throughout the game."
+"This unit's True form, Richest Cat, gains increased damage and no longer has multihit. This doesn't fix most of its problems and it remains mostly a combo slave, but on this note it does gain an additional one-slot combo; Offshore Accounts, a Starting Money Up M combo. This lets you start the stage with 500 cash in addition to the already raised Worker Level from Itchy Riches, all in one slot. This expands his usage to also being a great help in rush strategies, and makes Richest Cat one of the most useful combo slaves in the game."
+Useful to Own By: 
+"Any time, particularly if the player wishes to maximize their Dojo score"
+Useful to True Form By: 
+"Also any time, for further improvement of Dojo Score"

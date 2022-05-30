@@ -1,0 +1,7 @@
+Driller Cat,2,Gacha Super Rares
+"Driller Cat (Power Driller Cat) is a niche anti-Traitless CC unit that stands at 460 range with Single Target LD from 350 to 650. Its core ability is to Weaken Traitless by 90% for 3s. It has 7650 HP with 3 KBs, 1200 cost and a 71s Cooldown. Although Driller has a very powerful Weaken that divides the enemy's damage by 10, it is offset by it being Single Target and having only 49% uptime. Driller is also very frail and has a very long Cooldown for a Super Rare, further restricting it to stages where enemies can not snipe it with LD or Waves. This limits its usage to Traitless bosses such as Manic Mohawk, Manic Eraser and Yulala, and in all of these cases Driller must be well protected and stacked to achieve a significant effect. Driller has a Weaken Duration Up Sm Combo with Li'l Dragon Cat which is nice, but does not reduce the need for stacking."
+"Neo Driller Cat gains the Strong ability and has its attack frequency reduced from 6.1s to 3.4s. Now with an uptime of 87%, Neo Driller Cat can not only control Traitless bosses better, but with combos a single Driller can now permanently weaken a Traitless enemy, removing the need to protect it while you stack copies. The Strong ability also doubles its HP to 15.3k against Traitless, giving it at least a bare minimum of durability should anything go wrong. Overall this True Form significantly improves Driller's usefulness in its role."
+Useful to Own By: 
+Manics
+Useful to True Form By: 
+HT Floor 40

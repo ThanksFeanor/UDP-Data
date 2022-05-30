@@ -1,0 +1,7 @@
+Swordsman Cat,2,Gacha Rares
+"Swordsman Cat, or Sword Master Cat in Evolved Form, is a stackable Melee attacker with Massive Damage against Red. He has 11k HP and 5100 effective DPS while standing at 155 range. His main usage is to quickly take down bulky but short-ranged Red enemies like One Horn and Bore. The main problem is his 155 range, which means he needs good support from, say, a CC unit to remain safe from other longer-ranged enemies while he does his job."
+"His True Form, Elemental Duelist Cat, gets a stat boost up to 17k HP and 12.4k DPS vs Red (with ItF treasures), letting him tear through melee Reds faster than ever. The low-range weakness isn't fixed, though, so his usage remains limited to just doing this one job but better. When combined with a Freeze CC unit like iCat, though, Elemental Duelist can be used to burst down targets he would usually be crippled by, such as Hannya in River Styx. His Target Angel talent is near useless as he doesn't outrange any recurring Angels (even Boraphim stands at 155)."
+Useful to Own By: 
+SoL 7 for Bores and other Reds
+Useful to True Form By: 
+Around SoL 22 to keep up with buffed Red enemies

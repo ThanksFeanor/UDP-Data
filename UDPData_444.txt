@@ -1,0 +1,7 @@
+Piledriver Cat,2,Gacha Super Rares
+"Piledriver Cat (Power Piledriver Cat) is an average anti-Zombie Super Rare with a 100% chance to KB Zombies on each of its three hits. Its primary use is to protect your backline units by repelling Zombies that have unburrowed or revived on top of them, which it can do reasonably well thanks to its Omnistrike (-600 to 300 Range) granting it plenty of backwards reach, and its Resistance against Zombies (45k effective HP with 2 KBs) allowing it to endure some punishment without being interrupted. Piledriver's flaws include its long 1 minute Cooldown making it hard to recover from losing one, and low 11k base HP making it fragile in mixed stages. Even against Zombies, Piledriver's long foreswing (over 2s) can leave high magnification Zombies later in the game plenty of time to cause havoc. Piledriver also faces harsh competition from Ectoweight Cat, whose far better stackability often makes it the better choice for Zombie KB control. While it has Z-Kill, its damage output is not significant."
+Neo Piledriver Cat gains increased damage and its Cooldown is lowered to 41 seconds. This can safely be ignored as the Cooldown is still too long and its DPS is negligible before or after the increase.
+Useful to Own By: 
+SoL 34 for Zombies debut
+Useful to True Form By: 
+Never

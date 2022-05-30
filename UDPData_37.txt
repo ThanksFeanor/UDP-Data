@@ -1,0 +1,7 @@
+Pogo Cat,2,Gacha Rares
+"Pogo Cat (Masai Cat) is a useless meatshield. It has 6800 HP with 3 KBs, a cost of 360, a 2s Cooldown, and a 50% chance to Survive a lethal hit. The combination of high cost, low cooldown, low HP, and 50% chance to not even trigger Survive means it performs worse than Mohawks/Erasers but drains your wallet more in the process. Masai Cat also has a Attack Up Sm combo with Li'l Dragon Cat, which can be useful for your other cats even if you don't summon Masai itself."
+"In True Form Jiangshi Cat's cost drops from 360 to 240, and his Survive chance increases from 50% to 100%. While this improvement is in the right direction, 240 cost is still too high. An Eraser will absorb more hits from most enemies for 90 less cost. At worst, if enemies are strong enough to one-shot your Erasers, Jiangshi will absorb two hits due to Survive, but two 75c meatshields will do the same again for 90 less cost. Jiangshi is only worth using in specific scenarios as a result, such as to be ""two meatshields in one slot"" when you cannot fit many regular meatshields in your lineup due to heavy combo use or restrictions. Notably, with max Speed Up talent, he can reach 20 Speed and work as a fast 4-Crown meatshield, though he faces competition from the more generally useful Talented Riceball Cat in this niche."
+Useful to Own By: 
+"As soon as you own Li'l Dragon, for the combo."
+Useful to True Form By: 
+4-Crown SoL

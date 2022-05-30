@@ -1,0 +1,7 @@
+Surfer Cat,2,Gacha Super Rares
+"Surfer Cat (Castaway Cat) is a good anti-Alien Crowd Controller and decent general AoE attacker with 18.7k HP, 3300 DPS at 270 range, 3s attack frequency, a 20s Cooldown, a 30% chance to Freeze Aliens for 4s and a 50% chance to Survive a lethal strike. Castaway serves as a great Crowd Controller, able to effectively CC a majority of the Alien enemies it outranges, particularly useful throughout ItF and CotC against enemies like Nimoy Bore, Cosmic Cyclone, Star Peng, etc. Its AoE attack also gives it an advantage over the Single-Target Psychocat, able to effectively CC large groups of enemies. Castaway however suffers from its sluggish cooldown, which combined with its 30% proc rate means that it can be hard to stack effectively. Its low range also renders it ineffective against ItF 2 and 3 Moons where Alien CC is very important."
+"Seafarer Cat now has a 40% chance to Freeze, guaranteed Survive, and 26k HP. The improved proc rate overall makes Seafarer a better Crowd Controller, improving the consistency of its CC. The improved HP and Survive chance also improve Seafarer's survivability and performance in all roles nicely. Also worth mentioning is its Freeze Up talent, which grants a 20% extra Freeze chance (60% overall) at max level, making even a single Seafarer a very potent CC unit, and a stack of them near-impenetrable."
+Useful to Own By: 
+ItF Great Abyss 1
+Useful to True Form By: 
+ItF Great Abyss 2 for the Cyberhorns

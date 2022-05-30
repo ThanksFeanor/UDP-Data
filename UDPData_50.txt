@@ -1,0 +1,7 @@
+Bishop Cat,2,Gacha Rares
+"Bishop Cat (Monk Cat in Evolved Form) is a terrible spammable Single Target anti-Floating CC unit, with 495 cost, 3.87s Cooldown, 200 range, and a 20% chance to Slow a Floating enemy every 0.97s, for a duration of 4s. Bishop Cat is nearly useless due to poor range and Single Target, but can still find uses against early Cyclones."
+"The True Form, Sanzo Cat, now stands at 250 range and gains Area Attacks. This turns a garbage unit into a great one, letting him now outrange the majority of Floating enemies and reliably control more than one at a time. His proc rate is low, but as his uptime is high, a small stack of Sanzos will easily give you the support you need on most Floating stages. With talents, Sanzo expands his use with the Target Angel ability to provide similarly effective coverage against melee Angel threats like groups of Angelic Gories, and is one of few accessible units to provide strong anti-Angel control. This makes the talent immensely valuable throughout the game. His Weaken and Survive talents (both cost efficient at Level 1) also add to his use by helping keep your stack alive against hard-pushing Floating/Angel stages."
+Useful to Own By: 
+"Red, Black, White Cyclone"
+Useful to True Form By: 
+"SoL 15, for Floating threats"

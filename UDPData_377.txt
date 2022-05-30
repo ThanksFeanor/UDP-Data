@@ -1,0 +1,7 @@
+Fencer Cat,2,Gacha Super Rares
+"Fencer Cat (Kendo Cat) is a passable midrange Single Target attacker, and a great Barrier Breaker. He has 100% chance to break Barriers with a 4.73 second attack rate from 320 range, which makes him immensely valuable in CotC and anywhere else with frontline Star Alien barriers. The main drawback of Kendo Cat is his 1.7s foreswing which can lead to a peon getting in the way or him dying before hitting a barrier. His 3200 DPS, low 825 Cost and 9.2s Cooldown lead to him being essentially a lower range but more powerful and stackable Dragon Cat, though with only 1KB and similar HP he has less survivability."
+"The Kitty of Liberty gains more damage, more HP, a faster attack rate of 3.73s, and a much faster foreswing. This both makes him a much more reliable Barrier Breaker, able to handle the more difficult barrier stages in CotC3 and UL, and pushes his DPS up to 4800, exceeding even max level Dragon variants. KoL is easily the most useful non-uber direct Barrier Breaker and can fill this role for the entire game, though backliners with Barriers need other solutions such as LD Barrier Breakers like Golfer."
+Useful to Own By: 
+CotC 1 or SoL 43
+Useful to True Form By: 
+"CotC 3, Zyclone Revenge or UL"

@@ -1,0 +1,7 @@
+Tin Cat,2,Gacha Rares
+"Tin Cat (Plane Cat) is a terrible anti-Black proc unit with a 50% chance of Knockback from 295 range and Single Target attacks. This is almost entirely useless as Black Enemies are usually spammed in numbers that make Single Target cats redundant, are easily knocked back with small amounts of damage anyway, and mostly are fast enough to easily regain lost ground. The best matchup for Tin Cat is Dark Otter, a rare example of a slow, bulky Black enemy with 2 KBs, but even then it can often be neutralized better by Bomber Cat or Pizza Cat."
+"In True Form, Robocat gains higher stats and 50 extra standing range, but has its speed reduced from 15 to 10. No new use cases are opened up, but the extra range does help keep it safe when Dark Otter is paired with a longer range enemy, such as R. Ost in 8K Fertilizer. Even with talents, Tin Cat finds little to nothing to offer that other anti-Black units cannot handle better, and it remains an irrelevant unit."
+Useful to Own By: 
+Never
+Useful to True Form By: 
+Also Never

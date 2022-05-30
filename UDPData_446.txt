@@ -1,0 +1,7 @@
+Backhoe Cat,2,Gacha Super Rares
+"Backhoe Cat (Power Backhoe Cat) is a poor Critical Hitter. It is Single Target and has Target Only vs Metal, Double Bounty and a 15% chance of landing a Critical Hit for 6100 damage. Backhoe Cat has a couple nice strengths as an anti-Metal unit. It's able to comfortably outrange all Metal foes and its Double Bounty can be very helpful for gathering cash should it finish off a foe. It also has a 1% crit chance up CatCombo with Li'l Whale Cat which can be super helpful to generally power up your anti-Metal loadout. However, this is where the good things stop, as its combination of Single Target, slow attacks and only a 15% chance to Crit means it is basically impotent. Furthermore, its large 1500 Cost and 29s Cooldown make it inefficient compared to other, more accessible options. Just use other critical hitters as attackers, and bring Backhoe only for its combo."
+"Neo Backhoe Cat gains a 50% chance of creating a Level 1 Surge. While this potentially lets it perform piercing AoE Critical Hits, triggering a Crit and a Surge on the same hit is exceedingly rare (7.5%) and its very wide Surge spawn area (from 200 to 900) means even if it does proc it might just miss entirely. Backhoe Cat's performance is therefore not improved in any realistic way."
+Useful to Own By: 
+"March to Death, for combo use."
+Useful to True Form By: 
+Never.

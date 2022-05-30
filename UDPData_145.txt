@@ -1,0 +1,7 @@
+Cat Gunslinger,2,Gacha Rares
+"Gunslinger Cat (Cat Eastwood) is a Single Target anti-Black CC unit with a 30% chance to Slow Black enemies for 2s from 290 range and a 2.7s attack cycle. With low chance, only 74% uptime even if it lands every time, and Single Target, it is largely incompatible with most Black stages which usually spawn enemies in swarms. The only notable use case for it is that it is one of a few different early-accessible anti-Black/Floating units able to handle Black Cyclone."
+"His True Form, Rodeo Cat, despite doubling his Slow duration to 4s and bringing his range up to 320, is still mostly useless against Black enemies. At most, it can offer limited support against Black enemies in ItF before you have unlocked Bomber Cat who vastly outperforms him. With Talents, however, Rodeo can unlock a rare ability to target Relic enemies. Since other anti-Relic CC units are either Ubers, hard to unlock (e.g. Uril) or of poor quality (e.g. Talented Doctor, Medusa), Talented Rodeo emerges as a good and cheap (50 NP) non-Uber Relic counter for players beginning UL, being great to get started with taking down Primeval Cyclone, Relic Bun, Oldhorns as well as peons like Relic Doge/Sir Rel."
+Useful to Own By: 
+"Black Cyclone (or if you have alternatives for this, never)"
+Useful to True Form By: 
+"Relic Cyclone and UL1, with Target Relic talent"

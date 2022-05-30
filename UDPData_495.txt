@@ -1,0 +1,7 @@
+Matador Cat,2,Gacha Rares
+"Matador Cat, or Flamenco Cat in Evolved Form, is a poor anti-Red meatshield with a 30% chance to Dodge Red for 2s. She has 15.3k HP, 540 cost and 3.87s Cooldown. Matador suffers from excessive cost and cooldown for her HP, making her an ineffective meatshield if any non-Red enemies are present. Against Red enemies, the lack of e.g. Resistant means that she relies almost entirely on Dodge RNG to pull her weight. This is inherently an inconsistent approach to anti-Red defense, and so reliable alternatives such as Fried Shrimp Cat or CC units are almost always preferable."
+"In True Form, Bellydance Cat gets an improved 20.4k HP. This is not enough to fix any of the aforementioned issues. Her value lies instead in her Target Aku talent. Aku enemies cannot be easily controlled with effects like Slow or Freeze as their Shields block such things, so despite the inconsistency, Dodge Aku surprisingly comes through as one of the better ways to handle difficult Aku Realm stages like Hawaii and Mexico."
+Useful to Own By: 
+Never
+Useful to True Form By: 
+Late Aku Realms

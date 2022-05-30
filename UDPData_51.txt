@@ -1,0 +1,7 @@
+Fortune Teller Cat,2,Gacha Rares
+"Fortune Teller Cat (Fisherman Cat) is a poor Single Target anti-Floating CC unit with a 30% chance to KB every 1.33s, 240 range and a 5.2s Cooldown. Fisherman serves little purpose in the game, mainly due to Single Target, poor stats and KB being rarely-to-never useful against Floating enemies. Its only usage is in the ""Moby Dick"" Defense SM Up combo, and for early Cyclones if you have yet to pick up better anti-Floating (or Red/Black) options."
+"In True Form, Doctor Cat remains still rather useless, only gaining an improved 40% chance to KB. Its only notable usage is in Li'l Flying. When talented with Target Relic, it can help gain ground against the immensely bulky Oldhorn, but other options to counter it are available so this is still not a recommended approach."
+Useful to Own By: 
+"Red, Black, White Cyclones"
+Useful to True Form By: 
+Li'l Flying

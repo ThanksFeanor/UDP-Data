@@ -1,0 +1,7 @@
+Figure Skating Cats,2,Gacha Super Rares
+"Figure Skating Cats (Drama Cats) are a good spammable Midranger with 10.5k HP, 3 KBs, 1900 DPS, 355 range, 1155 cost, and a 7.2 second cooldown. They are like a less spammable but more cost-efficient Paris Cat. Given unlimited money, a big stack of Paris beats a smaller stack of Dramas just due to numbers, but if you are on a cash-tight stage where you can only summon a few attackers, Drama will give you more DPS for your cash. They can also be used together when you need multiple area attackers on high-spam stages."
+"In True Form, Slapstick Cats become an excellent anti-Relic spammable Midranger and gain a major stat improvement, having 14k HP and 2700 DPS. In addition to this, they also gain Strong vs Relic and Curse Immunity. Their range is more than adequate to combat the majority of Relic enemies and Strong gives them 28k effective HP and 4100 effective DPS. They are near-essential for late game as one of the few consistent non-Uber answers to Relic enemies, and they are available right away when you unlock UL. With Talents, they even become a viable CC unit, gaining a 20% chance to Weaken Relic to 50% strength for 4s, which is very potent when you have several Slapsticks stacked, increasing their own already impressive survivability alongside the rest of your cats’."
+Useful to Own By: 
+"Any time post-EoC to combat stronger peon spam, but the earlier the better"
+Useful to True Form By: 
+As soon as possible after Growing Strange becomes available

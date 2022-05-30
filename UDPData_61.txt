@@ -1,0 +1,7 @@
+Sushi Cat,2,Gacha Super Rares
+"Sushi Cat (Fried Shrimp Cat) is a good anti-Red Tanker with 32k base HP with 2 KBs, 130 range, a 10s Cooldown, Resistance to Red enemies and a 20% chance to inflict Weaken for 6.7s. With 256k effective HP including Weaken, and a decent cooldown, Fried Shrimp can pretty much wall any Red enemy you will meet, although it has too low base HP to work outside Red enemies and suffers in mixed stages. Tanking is also usually less preferable to simple CC, although if you are lacking any such options Fried Shrimp works well enough."
+"In True Form, Roe Cat’s already large base HP doubles, granting it over half a million effective HP, and making it able to continue tanking even end-game Red enemies. This is extremely valuable in stages where conventional CC cannot be used to stall enemies like in all Hannya and Okame appearances, I'll Be Bug, Color of Blood, and even certain Bersekory stages. The huge base HP even allows Roe to work in certain non-Red Tanker stages like Prisoner’s Progress, though note that its Cost Down talent should be kept at Level 5 to let it still be used on 1200 and above restriction stage like this."
+Useful to Own By: 
+ItF 2 Mexico for Bore
+Useful to True Form By: 
+Hannya

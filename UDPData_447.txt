@@ -1,0 +1,7 @@
+Miter Saw Cat,2,Gacha Super Rares
+"Miter Saw Cat (Power Saw Cat) is a good anti-Alien Melee attacker, with Warp Immune, Resistant, and Massive Damage against Aliens. It has 17k HP (68k effective HP) with 1 KB, 4000 DPS (12k effective DPS) with Single Target, 180 Range, 12 speed, and 1200 cost. Its primary use is in Cats of the Cosmos, where 1200 cost allows it to be used in all cost restriction stages, Warp Immune and Resistance allow it to stand its ground, and most stages focus on Alien enemies which it can shred with its huge DPS. However, it is weak in both peon-heavy stages due to Single Target, and in mixed stages due to its low base stats."
+"Neo Saw Cat gains bonus HP and DPS, now having 102k effective HP and 13.6k effective DPS. It also gains a 20% chance to Barrier Break, which pairs nicely with its fast attack rate and CotC-specialization. Overall, Neo Saw Cat's use remains the same but it just does the job better, allowing it to continue to perform well in later CotC stages such as Skelling 3."
+Useful to Own By: 
+CotC 1
+Useful to True Form By: 
+CotC 3

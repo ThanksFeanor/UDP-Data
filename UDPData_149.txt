@@ -1,0 +1,7 @@
+Mer-Cat,2,Gacha Rares
+"Mer-Cat (Commando Cat) is a terrible cat. With only 190 standing range and Single Target, she is essentially useless. True Form this unit before using it."
+"The True Form, Cameraman Cat, goes up to 250 range and gains Area Attack. Now with the range and AoE needed to be a relevant midrange attacker, Camera does great with 1600 DPS and 3.87s Cooldown with 540 cost, allowing you to quickly and cost-effectively stack up considerable amounts of power against any melee-range enemies. Camera is also Strong against Floating, with 2400 effective DPS (2900 with ItF treasures) that easily tears through Bun Bun variants, Brollows, etc. A solid 19.4k effective HP with 4 KBs and a 50% survive chance also help keep Camera stacks alive for a long time. Her slow speed sometimes makes her uncomfortable to use but also helps with stacking. With her Survive talent unlocked, Camera gains 100% survive chance and becomes a viable general pseudo-meatshield, bolstering your defenses while also keeping your DPS stack around longer, making it a high priority to unlock. Her Critical talent gives a rather negligible 2% chance to Critical Hit, but when helped with Crit Rate Up combos, a large stack of Cameras can be useful support on Metal stages too, occasionally turning the tide of battle with a rare-but-powerful AoE critical hit."
+Useful to Own By: 
+Never
+Useful to True Form By: 
+SoL 16

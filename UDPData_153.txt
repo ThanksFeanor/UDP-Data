@@ -1,0 +1,7 @@
+Cat Toaster,2,Gacha Super Rares
+"Cat Toaster (Cat Projector) is an awful anti-Angel CC unit. It has 330 range, 17.9s Cooldown, 4.5s attack frequency, and a 30% chance to Slow Angels for 3s with Area Attacks. There is nothing good about this cat. Its low Slow chance makes a single Toaster unreliable, and the excessively large Cooldown prevents any kind of stacking strategy from being viable. Just about any other conceivable option will be more useful. Scraping the bottom of the barrel, you may use it in Oncoming Maelstrom if it is the only anti-Angel CC you have obtained so early in the game, but you may find it insufficient even for this."
+"Toaster's True Form, Catophone, increases the Slow duration to 5s. It also gets 20% chance to break Barriers but as with its CC, just about any alternative is better. None of its problems are fixed, and it remains useless."
+Useful to Own By: 
+Oncoming Maelstrom if truly desperate
+Useful to True Form By: 
+Never

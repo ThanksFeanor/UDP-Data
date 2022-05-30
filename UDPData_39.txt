@@ -1,0 +1,7 @@
+Apple Cat,2,Gacha Super Rares
+"Apple Cat (Face Cat) is a terrible anti-Red CC unit, with a 40% chance to freeze Red enemies for 2 seconds. It has 12 speed, single target attacks, and 180 range. Due to his low range and inconsistent procs, he should only be used as a desperate option against early-game Melee Red enemies, such as Red Cyclone or Bore."
+"iCat gains area attacks, and a 100% chance to freeze Red enemies for 2 seconds. This enables him to be a consistent anti-Red proc unit, useful for many melee Red threats. He also gains some usage in specific strategies, such as the Hannya rush strategy, especially with Speed talents. Low range does still limit its uses to some extent, but if you can hold off an enemy long enough to stack iCats to permanently Freeze them, even this weakness can be nullified."
+Useful to Own By: 
+Red Cyclone
+Useful to True Form By: 
+Realm of Carnage

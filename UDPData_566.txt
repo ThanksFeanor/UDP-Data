@@ -1,0 +1,7 @@
+Lifeguard Cats,2,Gacha Super Rares
+"Lifeguard Cats (Sweet Bro Cats) are a midrange anti-Traitless CC unit with Wave Immunity. They have 11.9k HP and 1700 DPS, 325 Range (LD 225 to 475) and a 40% chance to Slow Traitless enemies for 4s on a 4.8s attack cycle. Furthermore they have a cooldown of 23s and 1080 cost. With base stats slightly worse than Housewife across the board, their role as a general LD attacker is unremarkable but functional. More interestingly, they provide a rare anti-Traitless area control effect with solid 84% uptime and some stackability, which is handy primarily against R. Ost stages or (with a stepping stone) some UL Master A stages. As an anti-Wave attacker Lifeguards can provide an early source of Wave Immune DPS but there is little reason to prefer them over the usual strategies, especially those involving Octopus Cat, talented Dancer Cat, or anti-Wave ubers once these are obtained. Some niche value is found in using them in addition to those usual strategies when against Traitless wave attackers like Kory, Dober PD or Crazed Legs/Titan, but this is more of a convenience than anything as the usual strategies still work fine without Lifeguards. The main notable stage they shine in is Authority and Gravity in mid-UL, where buffed R. Ost and Kory appear together and Lifeguard's combination of CC, LD and Wave Immunity in one unit all fall in place to counter this perfectly."
+-
+Useful to Own By: 
+SoL 17 for R. Ost debut
+Useful to True Form By: 
+-

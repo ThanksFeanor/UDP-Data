@@ -1,0 +1,7 @@
+Juliet Cat,2,Gacha Super Rares
+"Juliet Cat (Princess Juliet Cat) is a decent anti-Angel CC unit with a 40% chance to Freeze Angel enemies for 3s, from a range of 220. She excels against melee Angel enemies, such as Divine Cyclone and Boraphim. Juliet also has another use as a short-ranged DPS unit with stats similar to Manic Flying Cat. Her core drawback is having a foreswing of over 2s, and for this reason it is often more comfortable to use other units for DPS or for anti-Angel CC, talented Sanzo being the best example of the latter due to its near instant foreswing and high uptime Slow."
+"Juliet the Maiko doesn't have her foreswing issue fixed in True Form, but gains 30 extra range, faster recharge and 1s longer Freeze, improving her consistency as a CC unit. Though Sanzo is still often a more comfortable pick, Juliet's Freeze makes her more attractive versus St. Dober, by stopping its Surge attacks entirely. For talents, the interesting ones are Freeze Up, which grants her a huge Freeze duration of 7.2s with full Fruit treasures, and Speed Up which makes it easy for her to invade blindspots such as Clionel's in ACSL, but are only recommended if you use her frequently."
+Useful to Own By: 
+Divine Cyclone
+Useful to True Form By: 
+"UL 24, for the debut of St. Dober"

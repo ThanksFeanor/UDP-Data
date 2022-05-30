@@ -1,0 +1,7 @@
+Wushu Cat,2,Gacha Rares
+"Wushu Cat, or in Sifu Cat in Evolved Form, is a superb anti-Zombie meatshield with Zombie Killer and Resistant against Zombies giving it 44.9k effective HP and a 5.9s Cooldown. Sifu Cat significantly decreases the pushing power of many threatening Zombies that demolish regular meatshields, such as Dread Bore or Cadaver Bear in ItF outbreaks, as well as more common enemies such as Zang Roos or Zir Zeals, found in both EoC and ItF outbreaks. Its cooldown is a little on the long side, but still good enough to work fine against early-to-midgame Zombies. A respectable 2600 DPS also lets it deal some appreciable chip damage to Zombies."
+"Shigong Cat, Sifu Cat's True Form, increases its effective HP to 65.3k (81.6k with CotC treasures) and gains Slow Immunity. The stat improvement simply but effectively lets Shigong keep up with even late-game magnification Zombies and continue to do his job. Slow Immunity also greatly improves its matchup against Daboo. "
+Useful to Own By: 
+ITF 1 outbreaks
+Useful to True Form By: 
+"SoL 34 for first Zombies in SoL, or Daboo"

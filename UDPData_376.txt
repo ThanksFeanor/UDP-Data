@@ -1,0 +1,7 @@
+Rover Cat,2,Gacha Rares
+"Rover Cat, or Rover Cat Mk II in Evolved Form, is a strong anti-Alien meatshield. It has Strong against Aliens, giving it 27.2k effective HP and 2100 effective DPS, with 1 KB, 300 cost and 3.87s Cooldown. This HP is sufficient to make it a good specialist meatshield on Alien stages, and surprisingly also a decent amount of DPS to help chip down long-ranged enemies such as Cli-One which other attackers might struggle to withstand. Rover Cat also has Warp Immune, which means it retains this role in CotC. After CotC, Alien Fruit treasures boost the effective HP further to 34k."
+"Catellite, in True Form, now has 2700 effective DPS, a cost reduction down to 270, and immunities to Slow and Weaken. With unchanged HP, he doesn't get much better at his main job of meatshielding except with a slightly lower cost. However, the status immunities and extra chip damage improve his matchups against the likes of Calamary and the Queen B stages."
+Useful to Own By: 
+ItF 1
+Useful to True Form By: 
+CoTC 1

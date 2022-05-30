@@ -1,0 +1,7 @@
+Bath Cat,2,Gacha Super Rares
+"Bath Cat (Sexy Bathtub Cat) is an ok anti-Red Backliner with Single Target and Massive Damage, standing at 400 range with has 12k HP and 1600 DPS (4700 to 6300 DPS vs Reds). Bath costs 750 to deploy, with a cooldown of 31.2 seconds. Notably, these stats are comparable to a Dragon Cat of the same level versus non-Red enemies, making Bath a useful early-game unit as an “extra Dragon” anywhere that Dragon stacks are effective. However, its Cooldown is much longer than Dragon variants, so it is only against Red that its extra DPS lets it shine. Against Red enemies, which are common in early game, Bath has high DPS for its range class, and is useful in taking down a variety of early Red threats rapidly, such as JK Bun Buns, Bores, and One Horns."
+"In True Form, Luxury Bath Cat gains a large increase in HP to 20k and a faster attack rate, bringing its DPS to 2100 (6400 to 8500 to Reds). The HP and DPS increases allows Bath Cat to keep up with mid-to-late game enemy magnifications, however, as stages value Dragon Stack style strategies less and less in later game, Luxury Bath is relegated to more of a niche role."
+Useful to Own By: 
+"Crazed Tank, as an extra attacker alongside Dragons"
+Useful to True Form By: 
+Manic Island. for DPS to Berserkory

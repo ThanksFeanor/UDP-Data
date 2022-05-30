@@ -1,0 +1,7 @@
+Witch Cat,2,Gacha Rares
+"Witch Cat, or Sorceress Cat in Evolved Form, is a stackable anti-Red CC unit who has a 20% chance to Slow Red for 4 seconds. She has 200 range, 3.87s cooldown and a 1.43s attack frequency. This unit suffers due to her low range and poor proc chance, though if stacked can at least sufficiently counter early game melee Reds like Bore decently. Still, other anti-Red CC cats like Pirate Cat easily outclass her because they have better range and a more consistent proc."
+"Her True Form, Enchantress Cat, has a 50 range increase and Slow duration increased to 5s (6s with fruits). Despite improvements in the right areas, her TF does not go far enough to make her as good as other CC units. At best she is of rare use in 4 Crown SoL where your options are more limited. While she does have a Target Zombie talent, she is again outclassed by a range of other options (even in 4 Crown) like talented Psychocat, Shigong or Housewife."
+Useful to Own By: 
+"SoL 7 for Bore debut, but replaceable"
+Useful to True Form By: 
+4 Crown SoL
