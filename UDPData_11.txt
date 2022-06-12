@@ -1,0 +1,7 @@
+Mr.,2,CF-Purchasable Specials
+"Mr. (Super Mr.) is a poor melee rusher unit, with 8500 HP, 5 KBs, 1100 DPS with Area Attack, 825 cost, 31 speed, 140 range, and a 7.2s Cooldown. The True Form, Hyper Mr., has 47 speed and Z-Kill. He is essentially an AoE Giraffe Cat with slightly higher stats and cost. Equally, this means he is a much worse Crazed Giraffe Cat, and so Mr. has little use outside of the very early game before it is acquired. His stats are too low for Z-Kill to matter. Instead, he is mainly used as a combo slave in the Research Combo Biohazard alongside Skelecat (often also alongside Necromancer Cat for the Bony Bone combo, to get 2x Research Sm Up in three slots). If you are bringing him for his combo anyway, he may at best be worth deploying to clear weak peons in early 4 Crown SoL or other restriction stages where Crazed Giraffe can't be used."
+"Hyper Mr.'s stats remain too poor to be relevant even with the +80% talents that purchasable Special cats get. Manic Lion still vastly outperforms him. He can unlock a Knockback Zombie talent and his high speed could synergize well with this to snipe-KB troublesome Zombies, but with only 140 range the only relevant enemies he can safely hit are peons, Big Sal and Li'l Zyclone. Ectoweight is a much more reliable option for this role, without heavy NP investment needed. Warp and Freeze Immunity talents offer no meaningful use."
+Useful to Own By: 
+Mid-SoL / Advents for combo use
+Useful to Unlock Talents By: 
+Never

@@ -1,0 +1,7 @@
+Primordial Cat,2,Advent and Cyclone Drops
+"Primordial Cat (Modern Cat) is an excellent anti-Metal and anti-Relic meatshield. It has 11k HP with 1 KB, 10 Speed, 105 Cost, 5.2s Cooldown and a 140 range. Primordial is Resistant against Metal and Relic, and Immune to Curse, which brings its effective HP to 55k against Metals and 44k against Relics. It is very cheap for its large effective HP but is held back by a long Cooldown, though this can be alleviated with Research combos. While it has no general use outside of its traits, it is typically a great option on pure Metal/Relic stages."
+"In True Form, Future Cat's Resistant ability is upgraded to Insane Resistance, bringing its effective HP up to 77k/66k. This, along with a healthy amount of catseyes, lets Future Cat keep up with the huge DPS of endgame Relics and Metals (e.g. 2/3 Crown UL) and continue to remain an effective specialist meatshield."
+Useful to Own By: 
+"UL1, An Ancient Curse"
+Useful to True Form By: 
+"Late UL, or 2/3 Crown UL"

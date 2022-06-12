@@ -1,0 +1,7 @@
+Bondage Cat,2,CF-Purchasable Specials
+"Bondage Cat (Bondage CatNEO) is a bad anti-Red Melee Tanker. Even in True Form, Ultimate Bondage Cat is highly outclassed by other options for tanking Reds, especially Sushi Cat. Despite having a relatively fast 6s Cooldown, its high 1035 cost is a cash drain. It also isn't part of any useful combos, and is therefore entirely pointless to own."
+"With talents unlocked, Ultimate Bondage Cat becomes a much better anti-Red Tanker, packing roughly 107k effective HP. Bondage can also unlock a 40% chance to Dodge Red enemies for 1s, which means with some good RNG it can be incredibly durable. The Freeze talent (30% chance and 2s duration) can also situationally be useful when alternatives like iCat cannot approach an enemy to Freeze it, due to e.g. range of waves. However, due its high reliance on Dodge, and the unresolved issue with its high cost, it is generally not worth the large NP investment needed to essentially get little more than a sidegrade of Roe. Bondage’s only value, then, is when Roe and other key units are unavailable, if it is your only option, such as in Hannya Wrath or 4 Crown SoL Red stages."
+Useful to Own By: 
+Never
+Useful to Unlock Talents By: 
+Wrath of Carnage or 4 Crown Boiling Spring

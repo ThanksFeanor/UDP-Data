@@ -1,0 +1,7 @@
+Lone Cat and Kitten,2,Advent and Cyclone Drops
+"Lone Cat and Kitten (Vendor Cat and Kitten) is a midrange anti-Traitless CC unit with a 100% chance to Knockback a Traitless enemy and Freeze it for 1s. It is also Resistant to Traitless with 54.4k effective HP (13.6k base) and 1 KB, as well as 15 Speed, 300 range, 810 cost and 39s Cooldown. As one of few anti-Traitless control options open to the player, Vendor is a great help against high-threat Traitless enemies such as R. Ost, Manics and Heavenly Tower bosses, especially when paired with Glass Cat. Despite fairly high effective HP against Traitless, however, Vendor's 1 KB means it still often dies once enemies are able to reach it, especially if Traited enemies are also present. Additionally, its Single Target means peons can easily cause Vendor to not hit the desired target. Vendor also has immunities to Warp, Freeze, Knockback, Slow, and Weaken, which help it function in Henry/Croakley/etc stages as well as against Yulala."
+"Tourist Cat gains 25% more HP and a doubled Freeze time of 2s. There is little to say about this as it continues to do its previous job but better, albeit with the same weaknesses and limitations."
+Useful to Own By: 
+Manics
+Useful to True Form By: 
+Heavenly Tower Floor 40

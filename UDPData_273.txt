@@ -1,0 +1,7 @@
+Cheerleader Cat,2,Advent and Cyclone Drops
+"Cheerleader Cat (Waitress Cat) is an excellent anti-Metal with a 100% chance to deal a Critical Hit for 13.6k Damage. She has 13.6k HP with 3 KBs, 350 range, 10 speed, 20.3s attack frequency, 900 cost and a 31.2s cooldown. Her high damage per hit with a guaranteed crit lets her one-shot or at least cripple most Metal enemies, even bulky ones like Super Metal Hippoe or Sir Metal Seal which other critters have to slowly chip down, and her range is more than sufficient in all situations you'd use her, for example in Growing Strange as your critter for Clash of Steel. Her main downsides are her long 4.33s foreswing and Single Target which makes it hard to set her up to hit the right target, and her slow attack cycle and long cooldown mean that you will be waiting a long time to try again if you do miss."
+"In True Form, Soba Cat's HP and Crit Damage both increase to 17k. This makes her even better at her job, but doesn't remove any weaknesses. It is worth noting that at Level 44, she becomes able to one-shot 300% Super Metal Hippoes in late game, making them much faster to take down."
+Useful to Own By: 
+"SoL 35, Bionic Seaweed"
+Useful to True Form By: 
+March to Death
