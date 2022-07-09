@@ -1,0 +1,7 @@
+Zombie Cat,2,CF-Purchasable Specials
+"Zombie Cat (Devil Cat) is an awful anti-Red with the Strong ability, essentially a worse Whale Cat variant. Skelecat, the True Form, gains Zombie target and Z-Kill. In all roles, his awful stats and high cost make him unusable. His main use is his part in the two most accessible Research Up combos; Biohazard with Mr. and Bony Bone with Necromancer Cat. Skelecat being in both combos means they can be used together simultaneously (aka ""BioBone"") to efficiently produce two Research Up effects in just three lineup slots. Skelecat itself remains unusable, but his function as a combo slave helps you spam more of your other more useful cats, and this is a widely used strategy throughout the game or until you get ubers with more powerful Research combos."
+"Even with the large +80% stat talents of purchasable Special cats, Skelecat remains completely outclassed by Islands as a bulky melee anti-Red and Shigong/Cadaver BearCat/Li'l Flying Cat for melee anti-Zombie use."
+Useful to Own By: 
+"Midgame for mid-SoL and advents, to use in Research Combo strats"
+Useful to Unlock Talents By: 
+Never

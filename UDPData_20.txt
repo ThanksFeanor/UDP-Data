@@ -1,0 +1,7 @@
+Samurai Cat,2,CF-Purchasable Specials
+"Samurai Cat (Knight Cat) is an atrocious meatshield and Melee attacker. With awful stats and a high 525 cost, it is completely useless. The True Form, Pastry Cat, does nothing to improve it outside of giving it a 10% chance to Slow non-Metal enemies for 2s, which is outclassed by almost any other CC option in every situation. Samurai Cat is worth buying only for its combos, from which Cool Japan is the most useful, as an Attack Up (M) for 4 slots. However, do note that two Attack Up (Sm) combos give a greater boost to attack for the same number of slots. In True Form, it gains a Cannon Recharge (M) combo for 3 slots."
+"Pastry Cat's stats are still pathetic even with an 80% boost from talents, its Barrier Breaker and Weaken are as outclassed as its Slow, and Resist Slow isn't helpful at all. In conclusion, none of its talents improve it in any meaningful way, and they are all a complete waste of NP."
+Useful to Own By: 
+"Crazed Gross, for Cool Japan"
+Useful to Unlock Talents By: 
+Never

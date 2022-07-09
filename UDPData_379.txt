@@ -1,0 +1,7 @@
+Volley Cat,2,Advent and Cyclone Drops
+"Volley Cat (Ballet Cat) is an effective Mid-range critter. She has 6100 HP, 3 KBs, 375 standing range with 250 to 450 Long Distance range, 10 Speed, 7.9s Cooldown, an attack rate of 2.7s, Single Target and a cost of 720. Her evolved form, Ballet Cat, increases her HP to 7700. Above all, she sports an 8% Critical chance with a high 6800 dmg per hit. Ballet is reliable, especially in 4 Crown, at clearing through Metal-heavy stages in SoL. Space Marine Cat is another Cyclone drop with the same role, however, as Ballet Cat has more than double damage and faster recharge, she largely outclasses it. One notable weakness is Ballet's blindspot, as recurring Metal enemies are all Melee. Thus, it is recommended to support her with CC, such as from other Cyclone drops, to patch this weakness."
+"In True Form, Curry Cat, unlocked by beating Wrath of the Wormhole, acquires the ability to 100% Slow Metal enemies for 1.0s. His HP is also increased to 9200, improving his survivability. Despite only having a Slow uptime of 37%, his low cooldown enables the player to Permaslow lone Metals by stacking Curry Cats. To counter stronger Metals in late-game, his Slow intercepts them from easily entering his blindspot. In conclusion, he is an effective anti-Metal that can function well on mixed stages due to high range and damage and a CC ability."
+Useful to Own By: 
+"SoL 35, Quarantine Isles, Bionic Seaweed"
+Useful to True Form By: 
+"Heavenly Tower, Floor 28"

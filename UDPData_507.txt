@@ -1,0 +1,7 @@
+Mightycat,2,Advent and Cyclone Drops
+"Mightycat (Supercat) is a situationally useful anti-Traitless CC and anti-Wave unit. It has 30.6k HP with 10 KBs, 140 range, 60 speed, 720 cost and a 21.2s cooldown. It also has a 100% chance to Weaken Traitless by 50% for 6.67s as well as Wave Blocker. With a 133% base Weaken uptime, further increased by its rebound mechanism, it can easily keep a Traitless enemy permanently weakened. However, its Single Target makes it hard to use in spam stages. Furthermore, its long cooldown and low range mean it mostly cannot be stacked or replaced to keep an enemy weakened for extended periods of time. Thaumaturge, as a more stackable and ranged option for anti-Traitless weakening, usually provides more consistent and sustained control. Supercat is instead best used to deliver fast, targeted bursts of Weakening, alongside offensive rebound rushers, as the Weaken allows them to use more of their KBs against a Traitless enemy and rush it down harder. As a Wave Blocker, Supercat's low range and mere 3000 endurance mean it is knocked back by most wave-creating attacks and left unable to block the Wave itself. However, its high speed lets you time it to approach the front line just in time to stop an oncoming wave (such as in Glass Slippers) and it can still be conventionally effective against Single Target wavers such as Two Can such as in Slave to Energy, especially in 4 Crown restrictions where it is the only Wave Blocker."
+-
+Useful to Own By: 
+4 Crown SoL
+Useful to True Form By: 
+-

@@ -1,0 +1,7 @@
+Stone Cat,2,Advent and Cyclone Drops
+"Stone Cat (Boulder Cat) is a unique meatshield that dies 1.33s after it first attacks. However, its immense 340k HP and its immunities to Waves, Surges, Slow, Freeze, Knockback and Warp mean it is a near-absolute wall for that brief time. It can be deployed every 4.9s at a cost of 360, such that it can stall with 27% uptime for around the spam cost of an Eraser variant. This makes Stone a great choice against high DPS enemies such as Aku Bear or R. Ost that can quickly melt your Erasers, buying time for more meatshields to reach the frontline and prevent pushing. Additionally, it can hold your frontline after high single damage hits from bosses (say, a Nyandam variant) and leave no room for enemy peons to gain ground while your other meatshields catch up. Stone is often used with Research combos to vastly improve its stall uptime (e.g. 3x Research Sm leading to 60%), though this does lead to high cash drain and requires extra lineup space. Research-boosted Stone especially shines in situations where regular meatshields do next to nothing, for example Surge and Wave stages such as Flow Like the Stream, Banana Genomes, or Jagando Invasion. In such stages Stone is no longer just a filler/support meatshield, but can instead be your primary source of defense."
+-
+Useful to Own By: 
+Flow Like the Stream (Kappy)
+Useful to True Form By: 
+-
