@@ -1,0 +1,7 @@
+Little Leaguer Cat,2,Advent and Cyclone Drops
+"Little Leaguer Cat (Major Leaguer Cat) is a decent LD sniper and Barrier Breaker. It has 1900 DPS at 275 standing range, with LD from 425 to 550, 15.1k HP with 2 KBs, 10 speed, 1200 cost, and a 13.2s cooldown. It also has Resistant to Alien (60.5k to 75.7k effective HP) and a 35% chance of Barrier Breaker. Major Leaguer Cat is unusual even for an LD unit in that its minimum attack range is higher than its standing range; it is therefore exclusively meant for sniping Backliners with a stepping stone, and especially Backliners with barriers which are hard to otherwise reach and break, such as Ribbo and Le’Solar. Because it cannot hit the stepping stone itself, Major Leaguer Cat can very easily be stacked with no risk of prematurely killing it. Its high effective HP also allows Major Leaguer Cat to stay on the field longer and exploit low damage Warp-using Aliens for repositions, rather than die as soon as your cats push into range of a backliner like Le'Solar. However, outside of Aliens and stacking strategies, its low KB count, low standing range, and unique LD means Major Leaguer Cat can be very limited in general use."
+"In True Form, Golfer Cat now has 18.5k HP (effective HP up to 92.7k) and a maximum LD range of 650. This improves its ability to hit backliners as well as strike a wider area to damage incoming enemies sooner."
+Useful to Own By: 
+CotC 1
+Useful to True Form By: 
+Revenge of the Unholy / OS Graveyard

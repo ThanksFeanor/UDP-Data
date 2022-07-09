@@ -1,0 +1,7 @@
+Drumcorps Cat,2,Advent and Cyclone Drops
+"Drumcorps Cat (Banner Cat) is a Melee anti-Metal CC unit, with 11k HP, 220 range, Single Target, and a 40% chance to Weaken Metals for 6.67s. It costs 585 and has a 12s Cooldown. Drumcorps's huge 400% uptime and fast (1.7s) attack rate allow it to reliably cut the DPS of high damage Metals like Sir Metal Seal in half, so your defenses can better hold them back. Weaken is a less powerful effect than Slow or Freeze, and it is best not to rely on it as your only CC, but as part of a team with other Cyclone Drop cats, Drumcorps can play a useful support role."
+"Mochi Cat has 14.8k HP and a two-part multihit attack, functionally doubling its attack rate. This improvement simply, but effectively, makes it much more reliable at weakening frontline Metal enemies by giving it a 64% chance to proc at least once per attack cycle. Mochi is particularly recommended to bring on late-game stages with 300% Sir Metal Seals, especially the notorious March to Death."
+Useful to Own By: 
+SoL 20 for Utopia Is Over There
+Useful to True Form By: 
+SoL 35 for Bionic Seaweed

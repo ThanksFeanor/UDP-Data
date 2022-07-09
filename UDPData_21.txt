@@ -1,0 +1,7 @@
+Sumo Cat,2,CF-Purchasable Specials
+"Sumo Cat (Madame Sumo) is a poor and highly outclassed meatshield. He has very similar stats to Eraser Cat at the same level, but double the cost. As he has almost identical stats of a cheaper meatshield, he is not worth using over Eraser in any situation. His True Form, Riceball Cat, improves his usage by tripling his Speed and granting Immunity to Knockback. Although he can reach the frontline faster now, he is still fairly fragile compared to Manic Eraser, a meatshield with similar Speed and half his cost. Yet, Riceball can be invaluable due to his several combos, like Cool Japan, an Attack Up (M) combo for 4 slots."
+"Riceball's talents make him a useful meatshield. He gains an incredible 80% health increase, matching Manic Eraser's HP at Level 30, and surpassing it at higher levels. This is especially useful in 4 Crown stages, as reliable meatshields with good Speed are rare to come by. Among his other talents, Freeze and Slow Immune have rare applications, but Toxic Immune on a meatshield is highly valuable as it lets you keep your frontline intact against Toxic enemies. In conclusion, Riceball is primarily focused as an excellent 4 Crown or anti-Toxic meatshield, as Manic Eraser still performs better in general due to having half the cost."
+Useful to Own By: 
+"Crazed Gross, for Cool Japan"
+Useful to Unlock Talents By: 
+4 Crown SoL or Protein Cartel for Gobble spam

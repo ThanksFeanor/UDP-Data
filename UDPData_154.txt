@@ -1,0 +1,7 @@
+Hoop Cat,2,Advent and Cyclone Drops
+"Hoop Cat (Showoff Cat) is a poor anti-Metal CC unit. He has 11.4k HP with 3 KBs, 190 range, Single Target attacks every 2.93s, 9 speed, 660 cost and a 10.53s cooldown. His ability is a 20% chance to Freeze a Metal enemy for 2s. Freeze is a very powerful CC effect and while a high 68% uptime may look great, his low proc chance hurts him badly. His low survivability and somewhat long cooldown make it tricky to build a large enough stack to make him work well. Single Target further harms him in swarm stages where attacks may be wasted on insignificant peons. This means he is at most situationally useful for his chance to hard-control a single dangerous but relatively unprotected Metal enemy like Sir Metal Seal, but generally should be used as a bonus in addition to other Cyclone drops and not counted on as your main CC. Hoop's range is sufficient for all common Metal enemies, but can be on the risky side in mixed stages."
+"In True Form, Hoopmaster Cat's stats are boosted to 14.8k HP and 215 range, a doubled 40% proc chance, and a doubled 4s Freeze. Hoopmaster's CC performance is vastly improved with uptime now significantly over 100%, making him reliably able to completely shut down standalone Metal threats, even with a small stack. The extra range and HP are great for keeping Hoopmaster alive long enough to sustain that stack, but the problem of dying easily in mixed stages remains."
+Useful to Own By: 
+"SoL 18, for first appearance of Sir Metal Seal"
+Useful to True Form By: 
+"SoL 35, for Bionic Seaweed"

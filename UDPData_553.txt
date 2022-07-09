@@ -1,0 +1,7 @@
+Bakery Cat,2,Advent and Cyclone Drops
+"Bakery Cat (Boomerang Cat) is a nearly unusable Single Target Midrange CC unit with a 100% chance to Curse Alien, Angel, and Zombie enemies for 3s. Additionally, he has 8800 HP with 3 KBs, 2300 DPS, 6 Speed, 1.47s attack rate, 720 cost, 14.53s Cooldown, Warp Blocker, and Freeze Immunity. He stands at 280 range and has LD from 250 to 500. On the surface, his above 200% uptime and LD may look good, but every other stat holds him back from even being usable in his job, especially the awkward combination of LD and Single Target. Most Zombies have enough sheer force that it doesn't matter whether you Curse away their ability or not. Alien Backliners and the few Angels that rely on abilities outrange him. This leaves his only viable targets to be Melee Aliens with Warp. One of his only redeeming points is his function as a non-uber Big Peng Z counter, due to the boss having very low raw damage and a reliance on Toxic to be a threat, but even then he is hard to set up well and far from ideal."
+-
+Useful to Own By: 
+Big Peng Z
+Useful to True Form By: 
+-

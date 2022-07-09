@@ -1,0 +1,7 @@
+Rope Jump Cat,2,Advent and Cyclone Drops
+"Rope Jump Cat (Pair Rope Jump Cat) is a horrendous meatshield. It has 6800 HP with 3 KBs, 1000 DPS, 10 speed, 360 cost, 170 range, and a 2s Cooldown. It also has a miniscule 3% crit chance. Its low HP, high KB count and high cost make it unsuitable for meatshielding, and its pathetic crit rate and damage leave it far from usable as an attacker. Its only use is being a combo slave."
+"In True Form, Noodle Cats becomes Resistant to Metal, giving it 27.2k (34k with full CotC treasures) effective HP. While this is an improvement in the right direction, it doesn't do enough to make the unit relevant. The effective HP is still poor for the cost, and the 3 KBs still ruin any hopes it had. Regular meatshields and Modern Cat are preferable in just about all situations."
+Useful to Own By: 
+Anytime for its combos
+Useful to True Form By: 
+Never

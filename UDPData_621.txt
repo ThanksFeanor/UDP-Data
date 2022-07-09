@@ -1,0 +1,7 @@
+Aku Researcher,2,Advent and Cyclone Drops
+"Aku Researcher (Evil Aku Researcher) is a poor Critical Hitter and a usable Shield Piercer. It has 6800 HP with 100 KBs, 400 range, 10 speed, 540 cost, and a 19.2s cooldown. It attacks every 1.17s with a 6% chance to Critical Hit for 1800 damage, but this is far too weak and infrequent (~1 crit per 20s) to be useful. Its 15% chance of Shield Pierce (~1 pierce per 8s) is on the other hand quite useful, since it outranges many relevant shielded Akus such as Fallen Bear, and can often take down their huge shields faster than raw DPS would. Aku Researcher does however suffer from very low HP, often dying before its long cooldown is over; and its Single Target means it often wastes attacks on trivial peons. It also requires some luck to work fast enough in high pressure stages, as repeatedly missing a 15% proc is quite likely. Due to a severe lack of non-Uber alternatives for Shield Piercing, though, these weaknesses must be worked around with strategies that open a path for Aku Researcher to hit the intended target, while also protecting it from being killed too soon."
+-
+Useful to Own By: 
+Aku Realms
+Useful to True Form By: 
+-

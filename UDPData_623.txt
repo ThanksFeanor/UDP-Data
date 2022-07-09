@@ -1,0 +1,7 @@
+Pied Piper Cat,2,Advent and Cyclone Drops
+"Pied Piper Cat (Komuso Cat) is a poor anti-Aku CC and Shield Piercer unit. It has 6100 HP with 2 KBs, 7 speed, 510 cost, a nearly 12s cooldown, and 320 range. He can trigger Shield Pierce at a 40% chance and Weaken at a 100% chance, lasting for 2s and reducing Attack to 50%. Pied Piper presents significant flaws, among them his lack of HP and defense against Surges, which many Aku enemies take advantage of. Due to slow Speed and a non-guaranteed Shield Pierce, he is an unreliable counter to the several Aku enemies that outrange it, but can find use if their attack rate is slow enough, like Le'Behemoth. His Weaken is mostly irrelevant due to the very short duration, having less than 100% uptime, on top of the fact that it won't even activate if the Shield hasn't been broken."
+-
+Useful to Own By: 
+Never
+Useful to True Form By: 
+-

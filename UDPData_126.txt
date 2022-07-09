@@ -1,0 +1,7 @@
+Clockwork Cat,2,Advent and Cyclone Drops
+"Clockwork Cat (Puppetmaster Cat) is an average Single Target Melee CC unit with a 20% chance to Slow Metal enemies for 2.67s. Additionally, it has 14.3k HP with 4 KBs, 24 Speed, 200 Range, 2s Attack Rate, 495 cost, and 10.4s Cooldown. Despite its fast Attack Rate, Puppetmaster has a low chance of Slow paired with 133% uptime, meaning it must be stacked in order to consistently maintain its Slow. As it is Single Target, the unit may face struggle in Metal spam stages such as Bionic Seaweed. Its 24 Speed (which makes it outrun even Manic Eraser) can be troublesome, as it can cause a huge stack of Puppetmasters to run into the enemies without protection and die. Due to the few anti-Metal options early on, Puppetmaster is still a valuable addition to Metal stage lineups."
+"In True Form, Puppetmaster & Charley now has a 30% chance to Slow Metals for 6s at 225 Range. Thanks to a greatly enhanced Slow ability, Puppetmaster becomes far more reliable as a staple anti-Metal and can easily permanently maintain its Slow on lone Metal enemies. Due to its instant foreswing and fast Speed, it can function well in risky scenarios such as MtD as it can maintain its powerful Slow even in between enemy Backliner attacks. Although talented Lollycat outclasses it in most scenarios due to its Area Attack, such investment can be considered unnecessary as Puppetmaster is already an effective anti-Metal."
+Useful to Own By: 
+"SoL 18, Dead Falls"
+Useful to True Form By: 
+"SoL 35, Bionic Seaweed"

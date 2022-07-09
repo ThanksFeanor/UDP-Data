@@ -1,0 +1,7 @@
+Skirt Cat,2,CF-Purchasable Specials
+"Skirt Cat (Tights Cat) is an awful midrange attacker with 6800 HP and 3 KBs, 400 Single Target DPS at 350 range, 525 cost, and a 2.2s Cooldown. It is essentially a cheaper clone of Sexy Legs Cat, which is to say it is only barely useful in the very early game. Its True Form, Loincloth Cat remains irrelevant as an attacker, despite a faster attack rate, but gains a 30% chance to break Barriers. While this is hardly amazing, it is potentially useful in CotC 2 Aguham as one of very few viable anti-Barrier options compatible with the Special-only restriction (if you do not have Li'l Macho Legs yet)."
+"Loincloth's talents can improve its Barrier Break chance to 50%, unlock a 30% chance to Weaken Aliens for 4s, grant it Warp Immunity, and provide the usual 80% stat increase for Special units. These talents are not worth the NP investment as even with them, most other options for midrange DPS, anti-Alien CC and Barrier Breaking still firmly outclass it."
+Useful to Own By: 
+CotC 2 Aguham
+Useful to Unlock Talents By: 
+Never

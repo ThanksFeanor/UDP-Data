@@ -1,0 +1,7 @@
+Boogie Cat,2,CF-Purchasable Specials
+"Boogie Cat (Samba Cat) is a meatshield with 75 cost and a 2s cooldown. In most regards he is a carbon copy of the basic Cat, albeit with lower speed (6 instead of 10). Nevertheless, it is always great to have an extra cheap meatshield available. The True Form, Gato Amigo, gains a 5% chance to KB non-Metal enemies but this is irrelevant due to low range and proc chance."
+"Gato Amigo's relevant talents are Immunity to Surge, increased KB chance (to 20%) and HP Up. Surge Immunity is the most relevant talent, as it makes Gato Amigo incredibly useful as a main line of defense in Surge stages, especially in Aku Realms where your level-sealed meatshields die in one hit anyway. The much higher KB chance, if unlocked, can now work as a situational counter to low range tanky enemies with few other CC options like Oldhorn. Lastly, while the +80% HP talent is generally unimpressive due to Gato Amigo’s base HP being poor to begin with, it can be situationally useful on Surge stages if it lets it tank an extra hit, such as against Loris in Water Conservancy."
+Useful to Own By: 
+EoC 3 Moon
+Useful to Unlock Talents By: 
+Aku Realms
