@@ -1,0 +1,7 @@
+Space Cat,2,Advent and Cyclone Drops
+"Space Cat (Major Space Cat) is an early-game Midrange Critical Hitter and Barrier Breaker. He has 4100 HP with 3 KBs, 630 Cost with 11.2s Cooldown and 340 range. Most importantly, he has a 4% chance to perform a 2700 Damage Critical Hit and a 30% chance to activate Barrier Breaker when he attacks once every 2.37s. Space Cat's build is about using his high range to safely stack him and make up for the low individual 4% crit chance. Space Cat can be obtained very early on, and is sufficient in the very early game to deal with the easy Metal enemies the player encounters. Unfortunately, Catasaurus outclasses Space Cat in every way that matters; both have enough range but Catasaurus crits more often for more damage and can be spammed more. Therefore, as soon as you can True Form your Jurassic Cat, you no longer need Space Cat. It is equally outclassed as a Barrier Breaker by the likes of Fencer, Loincloth and Li'l Macho Legs."
+"In True Form, Space Marine Cat's HP increases to 10.2k, his Crit chance is doubled to 8%, and his chance to break barriers is increased to 50%. His True Form does not improve him enough to change his evaluation, and he remains outclassed in both anti-Metal and anti-Barrier use."
+Useful to Own By: 
+Fish Hell
+Useful to True Form By: 
+Never

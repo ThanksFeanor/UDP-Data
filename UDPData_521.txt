@@ -1,0 +1,7 @@
+Medusa Cat,2,Advent and Cyclone Drops
+"Medusa Cat (Twintail Medusa Cat) is a terrible anti-Relic midrange CC unit with 9700 HP and 3 KBs, 750 cost, 7.9s cooldown and 350 standing range (LD 275 to 450 range). She attacks every 3.3s with a 20% chance to Freeze Relics for 1.5s, and is Curse Immune. Medusa is heavily crippled by her awfully low Freeze chance and unremarkable less-than-50% uptime even when it does proc, thus making her nearly unusable. Her low survivability and large blindspot only add to her problems, and her 100 piercing range is too short to make up for any of her drawbacks."
+"Medusa's true form, Naga Cat, gains an increase in HP, to 14.5k and now has a 30% chance to Freeze Relics for 2s. Her uptime is now a viable, though not amazing, 61%, and a modest stack of Naga Cats can now somewhat reliably work as anti-Relic CC. She is however likely obtained too late to make much of an impact. In 4 Crown UL, though, where you lack the convenience of Slapsticks, her extra control may help against Relic Bun Bun and M. Ost."
+Useful to Own By: 
+Never
+Useful to True Form By: 
+4 Crown UL
