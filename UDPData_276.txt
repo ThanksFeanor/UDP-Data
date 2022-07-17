@@ -1,7 +1,7 @@
 Sunny Neneko,2,Gacha Super Rares
 "Sunny Neneko attacks with a guaranteed Critical Hit that deals 5100 damage from 310 range, with 57.8s cooldown, 148 cost and a 20.9s attack frequency. While a guaranteed crit is certainly useful, Sunny Neneko is overshadowed in this role by Waitress Cat due to the latter's better damage and much faster respawn, proving more flexible and effective over the course of a stage. However, Sunny Neneko's short 28f foreswing can give her an advantage in some situations, such as to quickly guarantee a kill on one weaker Metal enemy like Metal One Horn, Koronium or CyberFace without having to sit through Waitress's awkward animation."
--
+"Beachside Summer Neneko's damage is tripled in True Form, now dealing 15.3k damage on a critical hit. This is now only 90% of Soba Cat's gold standard damage for a guaranteed critter. Unfortunately, her inferior Cooldown and range remain too poor for her to be a viable alternative to Soba, leaving her with the same limited uses as before. As such, the extremely high TF cost is in no way justified."		
 Useful to Own By: 
-None
+Never
 Useful to True Form By: 
--
+Never
