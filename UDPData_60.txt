@@ -1,7 +1,7 @@
 Bronze Cat,2,Advent and Cyclone Drops
-"Bronze Cat (Michelangelo Cat) is a terrible anti-Metal CC unit with a 20% chance to AoE Knockback Metal enemies. He has 15.3k HP, 160 range, 1.7s attack frequency and 10s cooldown. Bronze Cat is nearly unusable due to his extremely low range and low chance to Knockback. His only use is in the gimmick stage Ashen Rain (UL14-3)."
+"Bronze Cat (Michelangelo Cat) is a terrible anti-Metal CC unit with a 20% chance to AoE Knockback Metal enemies. He has 15.3k HP, 160 range, 1.7s attack frequency and 10s cooldown. Bronze Cat is nearly unusable due to his extremely low range and low chance to Knockback. His only use is in the gimmick stage Ashen Rain (UL14-3). However, Bronze Cat is also part of Art History, a Resistance Up Sm combo with Artist Cat, which synergizes well with Artist's role and is a very slot-efficient way to improve its performance."
 "In True Form, Quizmaster Cat's range increases to 190, and his KB chance increases to 30% chance, but with a much longer 4.73s attack frequency he actually lands fewer KBs total. While he can now outrange Super Metal Hippoe, by the time you are able to unlock his True Form, you should have access to more effective anti-Metal CC such as Puppetmaster Cat. Quizmaster is therefore an entirely useless True Form."
 Useful to Own By: 
-Ashen Rain
+As soon as you own Artist Cat, for the combo
 Useful to True Form By: 
 Never
